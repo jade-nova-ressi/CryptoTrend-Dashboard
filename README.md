@@ -1,1 +1,1 @@
-# CryptoTrend-Dashboard
+This project is a responsive cryptocurrency dashboard that retrieves live market information from the CoinGecko API and presents it in a clean, easy-to-read interface. Built with React and deployed through Netlify, the dashboard helps users review cryptocurrency prices, market rankings, percentage changes, and trends. It showcases Jade's ability to integrate external APIs, transform raw data into useful visual information, handle loading and error states, test frontend behavior, and automate application deployment.
