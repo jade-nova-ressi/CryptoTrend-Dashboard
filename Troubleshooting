@@ -1,0 +1,8 @@
+Rate limited: cache responses and show a friendly retry state.
+
+Undefined fields: validate API responses and provide fallbacks.
+
+Stale deployment: verify Netlify build command, output directory, and environment variables.
+
+Flaky CI: mock external API responses in tests.
+
