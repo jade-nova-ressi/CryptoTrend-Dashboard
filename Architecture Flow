@@ -1,0 +1,7 @@
+
+flowchart LR
+    A[CoinGecko API] --> B[Fetch and validate]
+    B --> C[React state]
+    C --> D[Cards and charts]
+    D --> E[Netlify deployment]
+
